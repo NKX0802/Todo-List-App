@@ -5,6 +5,7 @@
 ### A personal dashboard where you can log in, manage your to-do list, and check the weather — all in one place.
 
 🔗 **[Video](https://drive.google.com/file/d/1gz44BAqBBFseQyRlyznZ0s59etuMC2R1/view?usp=sharing)**
+🔗 **[Presentation Slide](https://docs.google.com/presentation/d/1_dh759QHrZ4paa9hS9C7uuUshbN8xZx3GkriJi7DGKE/edit?usp=sharing)**
 
 <br>
 
